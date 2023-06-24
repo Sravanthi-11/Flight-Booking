@@ -1,4 +1,4 @@
-![logo_f2](https://user-images.githubusercontent.com/56977388/178157849-38d2f2c3-1c93-4dac-9577-57f3a752e2cd.png)
+
 
 
 
@@ -7,7 +7,7 @@ This is the capstone project for CS50's Web Programming with Python and Javascri
 
 
 
-<img alt="flight" src="C:\Users\arama\DevRev\Flight-master\flight\static\img\FlyHub.png">
+
 
 
 ### Features
